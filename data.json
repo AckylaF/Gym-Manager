@@ -1,0 +1,22 @@
+{
+  "instructors": [
+    {
+      "avatar_url": "https://unsplash.com/photos/sHfo3WOgGTU",
+      "name": "Ackyla Ferreira Batista",
+      "birth": 1581552000000,
+      "gender": "M",
+      "services": "Musculação, Crossfit",
+      "created_at": 1581420630481,
+      "id": 1
+    },
+    {
+      "avatar_url": "https://unsplash.com/photos/CQfNt66ttZM",
+      "name": "Mariana de Assis Soares",
+      "birth": 1580860800000,
+      "gender": "F",
+      "services": "Crossfit, Natação, Aeróbica",
+      "created_at": 1581420639239,
+      "id": 2
+    }
+  ]
+}
