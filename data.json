@@ -1,20 +1,11 @@
 {
   "instructors": [
     {
-      "avatar_url": "https://unsplash.com/photos/sHfo3WOgGTU",
-      "name": "Ackyla Ferreira Batista",
-      "birth": 1581552000000,
-      "gender": "M",
-      "services": "Musculação, Crossfit",
-      "created_at": 1581420630481,
-      "id": 1
-    },
-    {
-      "avatar_url": "https://unsplash.com/photos/CQfNt66ttZM",
+      "avatar_url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
       "name": "Mariana de Assis Soares",
-      "birth": 1580860800000,
+      "birth": 687484800000,
       "gender": "F",
-      "services": "Crossfit, Natação, Aeróbica",
+      "services": "Natação, Aeróbica",
       "created_at": 1581420639239,
       "id": 2
     },
@@ -29,7 +20,7 @@
     },
     {
       "id": 4,
-      "name": "Mariana de Assis Soares",
+      "name": "Mariana de Assis",
       "avatar_url": "https://source.unsplash.com/collection/3465564/500x500",
       "birth": 687484800000,
       "gender": "F",
