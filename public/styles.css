@@ -125,7 +125,7 @@ header{
 
 /* === FORM === */
 
-input{
+input, select{
     width: 100%;
     outline: none;
     color: #555;
@@ -200,7 +200,8 @@ tbody tr td:first-child span{
     box-shadow: 3px 1px 6px -1px black;
     border: 1px solid white;
 }
-tbody tr td:last-child a{
+tbody tr td:last-child a,
+.table-container > a{
     background-color: var(--primary-color);
     padding: 8px 16px;
     text-decoration: none;
@@ -208,6 +209,11 @@ tbody tr td:last-child a{
     color: white;
     font-size: 12px;
     border-radius: 6px;
+}
+.table-container > a{
+    margin-bottom: 16px;
+    display: inline-block;
+    margin-left: 13px;
 }
 .table-container thead tr th:last-child,
 td:last-child{

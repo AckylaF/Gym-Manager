@@ -1,31 +1,57 @@
 {
-  "instructors": [
+  "members": [
     {
-      "avatar_url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
-      "name": "Mariana de Assis Soares",
-      "birth": 687484800000,
-      "gender": "F",
-      "services": "Natação, Aeróbica",
-      "created_at": 1581420639239,
+      "avatar_url": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "name": "Ackyla Ferreira",
+      "email": "ackylafb@gmail.com",
+      "birth": 784944000000,
+      "gender": "M",
+      "blood": "O+",
+      "weight": "74",
+      "height": "185",
       "id": 2
     },
     {
-      "id": 3,
-      "name": "Ackyla Ferreira",
-      "avatar_url": "https://source.unsplash.com/collection/3465564/500x500",
+      "avatar_url": "https://images.unsplash.com/photo-1548690312-e3b507d8c110?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "name": "Mariana de Assis",
+      "email": "mariana.sissoa@gmail.com",
+      "birth": -14328403200000,
+      "gender": "F",
+      "blood": "O-",
+      "weight": "50",
+      "height": "165",
+      "id": 3
+    },
+    {
+      "avatar_url": "https://scontent.fbhz8-1.fna.fbcdn.net/v/t1.0-9/11755110_912581638780208_1092709303578362976_n.jpg?_nc_cat=109&_nc_ohc=kRaSRQ36234AX_7IKpk&_nc_ht=scontent.fbhz8-1.fna&oh=c416fb0220f049bc00a20f592723489c&oe=5F0335D1",
+      "name": "Ackyla Batista",
+      "email": "ackylafb@gmail.com",
+      "birth": 1287100800000,
+      "gender": "M",
+      "blood": "A-",
+      "weight": "85",
+      "height": "170",
+      "id": 4
+    }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "name": "Ackyla Ferreira Batista",
+      "avatar_url": "https://images.unsplash.com/photo-1548690312-e3b507d8c110?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
       "birth": 784944000000,
       "gender": "M",
       "services": "Musculação",
-      "created_at": 1581595677889
+      "created_at": 1582075458849
     },
     {
-      "id": 4,
-      "name": "Mariana de Assis",
-      "avatar_url": "https://source.unsplash.com/collection/3465564/500x500",
+      "id": 2,
+      "name": "Mariana de Assis Soares",
+      "avatar_url": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
       "birth": 687484800000,
       "gender": "F",
       "services": "Crossfit",
-      "created_at": 1581595932272
+      "created_at": 1582075539745
     }
   ]
 }
